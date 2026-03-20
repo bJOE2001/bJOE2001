@@ -59,12 +59,12 @@
 ---
 
 ## 📊 GitHub Stats
-![BellyJoe Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![BellyJoe Stats](https://github-readme-stats.vercel.app/api?username=bJOE2001&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bJOE2001&layout=compact&theme=tokyonight)
 
 ---
 
