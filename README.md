@@ -8,29 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-stack developer passionate about building real-world systems  
-- 🏛️ Currently working on a **Leave Management System (Government)**  
-- 📚 Built a **Smart Library System with Machine Learning**  
+- 💻 Full-stack developer passionate about building real-world systems   
 - 🌱 Continuously learning **AI, System Design, and Backend Engineering**  
 - ⚡ Goal: Become a highly skilled Software Engineer  
-
----
-
-## 🧠 Projects
-
-### 🏛️ Leave Management System
-- Built for **City Government of Tagum**
-- Automates leave filing, approvals, and tracking  
-- Handles complex rules (VL, SL, Forced Leave, etc.)  
-- Improves efficiency and reduces manual processing  
-
----
-
-### 📚 Librasense (Smart Library System)
-- Full library management system  
-- 📊 Machine Learning for borrowing predictions  
-- 📖 Tracks book transactions and user behavior  
-- 💡 Includes recommendation and analytics features  
 
 ---
 
